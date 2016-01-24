@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KaleighKendrickContacts</string>
+    <string name="action_settings">Settings</string>
+    <string name="Landline">Landline</string>
+    <string name="CellPhone">Cell Phone</string>
+    <string name="Name">Name</string>
+    <string name="Email">E-mail</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="Save">Save</string>
+</resources>
